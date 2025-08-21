@@ -3,7 +3,6 @@
 # 🎮 Game Revenue Predictions (Paid PC Games)
 
 Predict the **revenue of paid PC games** from game metadata using machine-learning models (Random Forest and XGBoost).  
-The training dataset is **proprietary and not included**; the notebook runs with any file that matches the schema below.
 
 ---
 
